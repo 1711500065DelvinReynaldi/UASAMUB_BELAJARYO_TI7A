@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932703910882",
+    "project_id": "uasamubdelvin",
+    "storage_bucket": "uasamubdelvin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932703910882:android:b13878239ddea4320617bb",
+        "android_client_info": {
+          "package_name": "com.asus.belajaryo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932703910882-llcut17j9m3el6hl5ns6t9r39eoohnac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyb69MP7GGGYpjxQhhgX9sTDZYXIU6wZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932703910882-llcut17j9m3el6hl5ns6t9r39eoohnac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
